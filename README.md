@@ -1,46 +1,19 @@
-# Our Massive Wiki
+# Everyone's Opinion Matters
 
-## For Editing Wiki Files
+![[Image by Frederic Köberl.webp]]
 
-Welcome to the home page of this wiki. Edit to make it your own! You can delete all the sample content on this page, and replace it with yours.
+Our civilization is currently dominated by a small fraction of our global population. This would be okay if this group were trustworthy, acting in the best interest of everyone and of our planet; but clearly such is not the case. As I say in the [Civilization 2.0](old%20README.md) website, I want to grant everyone influence over what our civilization becomes. That's my mission.
 
-Use Markdown, or just type text -- either way works.
+## A Game
 
-Use double square brackets around words to make links to other pages in this wiki.
+Modeling is important, as is access to advanced technology and the genius of all who might participate, so I intend to build a game that allows people to construct civilization in great detail, immerse into it, play with it, and get a feeling for what works and minimize or eliminate anything that doesn't quite feel right.
+  
+Imagine playing a game where you can feel what 2.0 is like. Your basic goal is to accumulate regard points. This gives you the basic feeling of 2.0. To entice people to try the game, it will at first appear to be a carnival of booths which dispense regard points for learning 2.0 culture. You will be given needs that take you on a journey through these booths. Eventually you will be given a home and introduced to a community or a guild. These are ways you can influence 2.0. Gradually you will have a deep experience all of the [essential traits](goals) of 2.0.
 
-## For Publishing Wiki To Website
+When you reach a critical level, you will be introduced to one or more communities of other players, or to one or more guilds, or to a neighborhood and a home. The longer a player plays the game, the greater their sense of immersion and influence.
 
-### Massive Wiki Builder
+I envision three core technologies: [needs](https://wiki.game.civilization2.org/needs), [opinions](https://wiki.game.civilization2.org/opinions) and [tools](https://wiki.game.civilization2.org/tools). Each of these are new, perhaps not yet understood to the depth I would like. I look forward to technical contributions from anyone, especially those with research experience in these domains.
 
-**THIS FOLLOWING IS AN ADVANCED TOPIC.** You do not need the following information if you just want to edit your wiki.
+## Open Source
 
-You can use [Massive Wiki Builder](https://github.com/peterkaminski/massivewikibuilder) to publish (export) any Massive Wiki to static HTML files. The wiki is then in a format viewable by anyone with a web browser.
-
-Massive Wiki Builder (MWB) and [Massive Wiki Themes](https://github.com/peterkaminski/massive-wiki-themes) are included in this repo as Git submodules.
-
-If your website host has build automation, you can adapt the included `netlify.toml` file to drive the build automation, and the build automation should automatically use the Git submodule mechanism to retrieve the MWB code it will need.
-
-If you are using MWB locally on your computer, you will need to retrieve MWB, and optionally, the themes.
-
-When cloning this repo using Git, you can use the `--recurse-submodules` flag to also clone the Massive Wiki Builder and Massive Wiki Themes submodules.
-
-The full command:
-
-```shell
-git clone --recurse-submodules git@github.com:Massive-Wiki/massive-wiki-starter.git
-```
-
-Or, you can clone the submodules with these commands:
-
-```shell
-git submodule init
-git submodule update
-```
-
-See the [Submodules chapter of the Git Book](https://git-scm.com/book/en/v2/Git-Tools-Submodules) for more information about Git submodules.
-
-### Themes
-
-This starter wiki is set up with two MWB / MWT themes, Alto and Basso, in the `.massivewikibuilder/this-wiki-themes` folder. We suggest you continue to use and customize your wiki's themes in the `this-wiki-themes` folder.
-
-The Massive Wiki Themes repo is updated from time to time, and when you refresh your local Git submodule in `.massivewikibuilder/massive-wiki-themes`, you'll receive those updates. Rather than use those themes directly, though, it is suggested to copy what you want into your `this-wiki-themes` folder, and customize and use your copy of the themes from there.
+Philosophically, I want to extend the notion of transparency to nearly everything we do, and so whatever is created, I intend to make it freely available. To me, this means open source development, and the use of what's already out there to best effect.
