@@ -2,7 +2,7 @@
 
 ![[Image by Frederic Köberl.webp]]
 
-Our civilization is currently dominated by a small fraction of our global population. This would be okay if this group were trustworthy, acting in the best interest of everyone and of our planet; but clearly such is not the case. As I say in the [Civilization 2.0](README.md) website, I want to grant everyone influence over what our civilization becomes. That's my mission.
+Our civilization is currently dominated by a small fraction of our global population. This would be okay if this group were trustworthy, acting in the best interest of everyone and of our planet; but clearly such is not the case. As I say in the [Civilization 2.0](wiki.civilization2.org) website, I want to grant everyone influence over what our civilization becomes. That's my mission.
 
 ## A Game
 
