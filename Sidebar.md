@@ -13,6 +13,7 @@
 - [[Needs Guild]]  
 - [[Regards Guild]]  
 - [[Dreams Guild]]  
+- [[Wisdom Guild]]  
 [[Challenges]]  
 - [[Opinions Guild]]  
 - [[Game Tools Guild]]  
