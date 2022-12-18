@@ -4,9 +4,9 @@
 
 ### Where Should We Start?
 
-The first component we build should help us immediately begin work: a [needs guild](https://wiki.game.civilization2.org/needs). This is where we can list all the useful components we can envision, and apply priority, urgency, criteria and importance to each. We also want to add the notion of one need depending on another.
+The first component we build should help us immediately begin work: a [[Needs Guild]]. This is where we can list all the useful components we can envision, and apply priority, urgency, criteria and importance to each. We also want to add the notion of one need depending on another.
 
-The second component can either be an [opinions guild](https://wiki.game.civilization2.org/opinions), or the [game-builder game](https://wiki.game.civilization2.org/build). The former can act as guidance for planning, the latter allows us to begin constructing the visuals and logic.
+The second component can either be an [[Opinions Guild]], or the [[Builders Guild]]. The former can act as guidance for planning, the latter allows us to begin constructing the visuals and logic.
 
 ### The Planning Guild
 

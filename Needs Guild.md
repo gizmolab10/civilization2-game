@@ -12,19 +12,19 @@ One open source option is to use a bug or defect tracking system and cover it o
 
 Until the needs tool exist, we can manually maintain the list here, but not in any particularly useful order:
 
--   database
-    -   hosting
-    -   create data
--   defect tracking source code
-    -   game face
-    -   custom fields and flows
-    -   monitor/negotiate (second-person) editing
--   [guilds guild](https://www.game.civilization2.org/guilds-guild)  
-    -   create new guild​
-    -   split a guild
-    -   roles (master, apprentice, spokesperson)
--   [opinions](https://www.game.civilization2.org/opinions) 
--   [game builders](https://www.game.civilization2.org/build) 
-   .    [planning](https://www.game.civilization2.org/plan)  
-  .     [tools](https://www.game.civilization2.org/tools)  
+- database
+	- hosting
+	- create data
+- defect tracking source code
+	- game face
+	- custom fields and flows
+	- monitor/negotiate (second-person) editing
+- [[Guilds Guild]]
+	- create new guild
+	- split a guild
+	- roles (master, apprentice, spokesperson)
+- [[Opinions Guild]]  
+- [[Builders Guild]]  
+	- [[Game Plan]]
+	- [[Game Tools Guild]]  
     -   artwork

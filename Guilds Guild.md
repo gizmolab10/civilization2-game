@@ -12,9 +12,9 @@ Guilds offer each player influence, training and ways to increase regard points 
 
 Guilds may use any of the components in the following list. For example, the opinions guild might provide to the needs guild a specialized collection of opinions about adding features and changes.
 
--   [opinions gathering](https://www.game.civilization2.org/opinions)      
--   [planning](https://www.game.civilization2.org/plan)      
--   [toolshop](https://www.game.civilization2.org/tools)  
+- [[Opinions Guild]]  
+- [[Game Plan]]  
+- [[Game Tools Guild]]  
 
 Each guild will have its own qualifications for entry and mastery. The guilds guild will provide rational guidance for establishing clarity and consensus on this.
 

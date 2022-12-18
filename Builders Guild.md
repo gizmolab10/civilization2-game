@@ -12,7 +12,7 @@ The game guild supplies the game framework and tools, from first code and throug
 
 ### Game Building Game
 
-To make this fun for the game builders, we hope to begin with a [toolkit](https://wiki.game.civilization2.org/tools) built into the game which players can use to build booths, guilds and maps. Extending and improving the game is a build-in capability. Building the game-builder game will be a first mission goal.
+To make this fun for the game builders, we hope to begin with a [[Game Tools Guild]] built into the game which players can use to build booths, guilds and maps. Extending and improving the game is a build-in capability. Building the game-builder game will be a first mission goal.
 
 ## Realism
 

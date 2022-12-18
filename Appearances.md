@@ -10,7 +10,7 @@ A map is divided into clickable shapes. Clicking on one of these shapes can ta
 
 ## Booths
 
-Each booth is built by a member of the game guild. In it will be a mini-game which challenges the player to earn regard points by responding in accord with the [qualities we want in 2.0](https://www.civilization2.org/qualities). The challenges are inviting and fun. At first they see only a few booths with mini-games that are simple and natural. As they accumulate regard, more booths become visible, and the challenges become more subtle and advanced.
+Each booth is built by a member of the game guild. In it will be a mini-game which challenges the player to earn regard points by responding in accord with the [qualities we want in 2.0](http://civilization2.org/goals). The challenges are inviting and fun. At first they see only a few booths with mini-games that are simple and natural. As they accumulate regard, more booths become visible, and the challenges become more subtle and advanced.
 
 This continues until eventually the game outside the carnival becomes visible and the option of a home, guild or community appear. From then on, the carnival becomes a place to stock up on needed regard.
 
@@ -19,8 +19,6 @@ This continues until eventually the game outside the carnival becomes visible an
 A player's home provides an opportunity to immerse deeper into the game. This allows a player to more broadly explore needs, such as entertainment, furniture, repairs, hobbies. A prominent button in the UI will, when clicked, take the player home.
 
 ## Portal device
-
-​
 
 Each home comes with a portal device which offers instantaneous transport to other locations within the game: a friend's home, a guild, a booth.
 

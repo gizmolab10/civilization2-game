@@ -26,7 +26,7 @@ Some opinions relate to a specific guild. We think this is sufficient reason to 
 
 After each new opinion is added, consensus can be recomputed. This will in turn affect various aspects of the game: searches, guild guidelines, justice, governance, and other things now known and to be discovered.
 
-## [Consensus building](https://www.game.civilization2.org/)  
+## Consensus building
 
 As a species, we seem to focus on our differences. In some peculiar way, do we need to be different? Is this really a need?When fulfilled, does it actually bestow more than a tiny improvement? Could it, instead, be just an illusion standing in the way of establishing consensus. Indeed, it might just a mask hiding some other need. Could this hidden need be a yearning for simplicity (complexity is growing), safety (new threats are always emerging) or resources (much is disappearing).
 
