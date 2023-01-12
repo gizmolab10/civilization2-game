@@ -28,7 +28,7 @@ Neighborhoods expand the immersion by adding neighbors, local establishments li
 
 ## Guilds
   
-[Guilds](https://www.game.civilization2.org/guilds) offer a player training, earning and influence. As to the latter, they are where we expect a lot of interesting 2.0 activity. Most of the designing of and thinking about 2.0 will take place here. Guilds have several visual modes: member hierarchy and personal, along with communication modes: search, forum, classroom, needs, opinions, and justice.
+[Guilds](https://www.game.civilization2.org/guilds) offer a player training, earning and influence. The latter is where we expect a lot of interesting 2.0 activity. Most of the designing of and thinking about 2.0 will take place here. Guilds have several visual modes: member hierarchy and personal, along with communication modes: search, forum, classroom, needs, opinions, and justice. The main page for each guild has a purpose statement and a handful of link buttons, some containing counts.
 
 ### Communities
 
